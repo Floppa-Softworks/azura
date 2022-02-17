@@ -15,8 +15,9 @@
 		"noUnusedLocals": true,
 		"noUnusedParameters": true,
 		"noImplicitAny": false,
-		"noImplicitThis": false,
-		"strictNullChecks": false
+		"noImplicitThis": true,
+		"strictNullChecks": true,
+		"strict": true
 	},
 	"include": ["src/**/*"]
 }
